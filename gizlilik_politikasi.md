@@ -11,13 +11,15 @@
 
 | | |
 |---|---|
-| **Veri Sorumlusu ve Aracı Hizmet Sağlayıcı** | Ahmet Kaan Dinç - Mekas Teknoloji ("**Mekas Teknoloji**") |
-| **Adres** | [ADRES] |
+| **Veri Sorumlusu ve Aracı Hizmet Sağlayıcı** | Mekas Teknoloji [TAM UNVAN] Limited Şirketi ("**Mekas Teknoloji**") |
+| **Merkez Adresi** | [ADRES] |
 | **E-posta** | [E-POSTA] |
 | **Kayıtlı Elektronik Posta (KEP)** | [KEP ADRESİ] |
 | **Telefon** | [TELEFON] |
-| **Vergi Dairesi / Vergi Kimlik No** | [VERGİ DAİRESİ] / [VERGİ KİMLİK NO] |
-| **MERSİS / Ticaret Sicil No** | [MERSİS NO] |
+| **Ticaret Sicil Müdürlüğü / Sicil No** | [TİCARET SİCİL MÜDÜRLÜĞÜ] / [SİCİL NO] |
+| **MERSİS No** | [MERSİS NO] |
+| **Vergi Dairesi / Vergi Kimlik Numarası (VKN)** | [VERGİ DAİRESİ] / [VKN] |
+| **Kayıtlı Olduğu Meslek Odası** | [TİCARET ODASI] |
 | **ETBİS Kayıt No** | [ETBİS KAYIT NO] |
 
 ## 2. KAPSAM
@@ -213,6 +215,7 @@ Mekas Teknoloji, işbu Politika'yı mevzuat değişiklikleri ve Platform'un işl
 
 ---
 
-**Ahmet Kaan Dinç - Mekas Teknoloji**
+**Mekas Teknoloji [TAM UNVAN] Limited Şirketi**
 [ADRES]
+MERSİS No: [MERSİS NO] | VKN: [VKN]
 [E-POSTA] | [KEP ADRESİ] | [TELEFON]

@@ -13,12 +13,14 @@
 
 | | |
 |---|---|
-| **Unvan** | Ahmet Kaan Dinç - Mekas Teknoloji |
-| **Adres** | [ADRES] |
+| **Unvan** | Mekas Teknoloji [TAM UNVAN] Limited Şirketi |
+| **Merkez Adresi** | [ADRES] |
 | **E-posta / KEP** | [E-POSTA] / [KEP ADRESİ] |
 | **Telefon** | [TELEFON] |
-| **Vergi Dairesi / Vergi Kimlik No** | [VERGİ DAİRESİ] / [VERGİ KİMLİK NO] |
-| **MERSİS / Ticaret Sicil No** | [MERSİS NO] |
+| **Ticaret Sicil Müdürlüğü / Sicil No** | [TİCARET SİCİL MÜDÜRLÜĞÜ] / [SİCİL NO] |
+| **MERSİS No** | [MERSİS NO] |
+| **Vergi Dairesi / Vergi Kimlik Numarası (VKN)** | [VERGİ DAİRESİ] / [VKN] |
+| **Kayıtlı Olduğu Meslek Odası** | [TİCARET ODASI] |
 | **ETBİS Kayıt No** | [ETBİS KAYIT NO] |
 
 **b) Sözleşmenin kurulması için izlenecek teknik adımlar:** (i) Hesap türünün (Alıcı veya Toptancı) seçilmesi, (ii) kimlik ve iletişim bilgilerinin girilmesi, (iii) cep telefonu numarasının doğrulanması, (iv) işbu Sözleşme ile Gizlilik Politikası'nın okunarak onaylanması ve (v) kaydın tamamlanması. Toptancılar bakımından ayrıca işletme profilinin oluşturulması ve Mekas Teknoloji tarafından onaylanması gerekir. Alıcılar, ilk siparişten önce kurumsal bilgilerini tamamlamakla yükümlüdür.
@@ -35,9 +37,11 @@
 
 ### Madde 1 — Taraflar
 
-1.1. İşbu Kullanıcı Çerçeve Sözleşmesi ("**Sözleşme**"); bir tarafta Ahmet Kaan Dinç - Mekas Teknoloji ("**Mekas Teknoloji**") ile diğer tarafta Platform'a Alıcı veya Toptancı olarak üye olan işletme ("**Kullanıcı**") arasında, Kullanıcı'nın Sözleşme'yi elektronik ortamda onaylamasıyla kurulmuştur.
+1.1. İşbu Kullanıcı Çerçeve Sözleşmesi ("**Sözleşme**"); bir tarafta [ADRES] adresinde mukim, [TİCARET SİCİL MÜDÜRLÜĞÜ] nezdinde [SİCİL NO] sicil numarası, [MERSİS NO] MERSİS numarası ve [VKN] vergi kimlik numarası ile kayıtlı Mekas Teknoloji [TAM UNVAN] Limited Şirketi ("**Mekas Teknoloji**") ile diğer tarafta Platform'a Alıcı veya Toptancı olarak üye olan işletme ("**Kullanıcı**") arasında, Kullanıcı'nın Sözleşme'yi elektronik ortamda onaylamasıyla kurulmuştur.
 
-1.2. Mekas Teknoloji ve Kullanıcı ayrı ayrı "**Taraf**", birlikte "**Taraflar**" olarak anılır.
+1.2. İşbu Sözleşme'den doğan hak, yükümlülük ve sorumluluklar, Mekas Teknoloji bakımından münhasıran tüzel kişiliği haiz Mekas Teknoloji [TAM UNVAN] Limited Şirketi'ne aittir. Şirketin ortakları ve müdürleri işbu Sözleşme'nin tarafı değildir; kanundan doğan sorumluluk halleri saklıdır.
+
+1.3. Mekas Teknoloji ve Kullanıcı ayrı ayrı "**Taraf**", birlikte "**Taraflar**" olarak anılır.
 
 ### Madde 2 — Tanımlar
 
@@ -93,7 +97,7 @@ ifade eder.
 
 5.5. Hesap bilgilerinin ve şifrenin gizliliğinden Kullanıcı sorumludur. Kullanıcı hesabı üzerinden gerçekleştirilen işlemler Kullanıcı tarafından gerçekleştirilmiş sayılır. Kullanıcı, hesabının yetkisiz kullanıldığını öğrenmesi halinde durumu derhal Mekas Teknoloji'ye bildirir.
 
-5.6. **Hesabın ve Sözleşme'nin devri yasağı.** Üyelik hesabı ve işbu Sözleşme'den doğan hak ve yükümlülükler Kullanıcı'ya özgüdür. Kullanıcı; hesabını, üyeliğini veya Sözleşme'deki taraf sıfatını, Mekas Teknoloji'nin yazılı onayı olmaksızın satış, kiralama, bağış, alacağın temliki, işletme devri veya başka herhangi bir yolla üçüncü kişilere devredemez, kullandıramaz ve üzerinde herhangi bir hak tesis edemez. Bu yasağa aykırı devir Mekas Teknoloji'ye karşı hüküm doğurmaz. İşletmenin devri veya birleşme hallerinde devralan, Madde 5'teki üyelik koşullarını yeniden sağlamak ve Mekas Teknoloji'nin yazılı onayını almak kaydıyla Kullanıcı'nın yerine geçebilir. Mekas Teknoloji, işletmesinin devri, bir şirkete dönüştürülmesi veya şirkete ayni sermaye olarak konulması hallerinde Sözleşme'yi halefine devredebilir; Kullanıcı, TBK m.205/2 uyarınca bu devre işbu Sözleşme ile önceden izin verir ve devir kendisine bildirilir.
+5.6. **Hesabın ve Sözleşme'nin devri yasağı.** Üyelik hesabı ve işbu Sözleşme'den doğan hak ve yükümlülükler Kullanıcı'ya özgüdür. Kullanıcı; hesabını, üyeliğini veya Sözleşme'deki taraf sıfatını, Mekas Teknoloji'nin yazılı onayı olmaksızın satış, kiralama, bağış, alacağın temliki, işletme devri veya başka herhangi bir yolla üçüncü kişilere devredemez, kullandıramaz ve üzerinde herhangi bir hak tesis edemez. Bu yasağa aykırı devir Mekas Teknoloji'ye karşı hüküm doğurmaz. İşletmenin devri veya birleşme hallerinde devralan, Madde 5'teki üyelik koşullarını yeniden sağlamak ve Mekas Teknoloji'nin yazılı onayını almak kaydıyla Kullanıcı'nın yerine geçebilir. Mekas Teknoloji'nin birleşme, bölünme veya tür değiştirmesi hallerinde kanundan doğan halefiyet hükümleri uygulanır; ticari işletmesinin devri halinde Mekas Teknoloji, Sözleşme'yi devralana devredebilir. Kullanıcı, TBK m.205/2 uyarınca bu devre işbu Sözleşme ile önceden izin verir ve devir kendisine bildirilir.
 
 ### Madde 6 — Şirket Kullanıcıları ve Yetkilendirme
 
@@ -323,7 +327,7 @@ Kullanıcı, işbu Sözleşme'ye veya mevzuata aykırı fiilleri nedeniyle Mekas
 
 ### Madde 22 — Platform'un Fikri Mülkiyet Hakları ve Teknik Koruma
 
-22.1. **Hak sahipliği.** Platform'un kaynak ve nesne kodları, hazırlık tasarımları, algoritmaları, yazılım mimarisi, uygulama programlama arayüzleri (API), veri tabanı yapısı ve Platform'da derlenen veri tabanları, ekran ve arayüz tasarımları, görsel ve grafik unsurları, ikonları, metinleri ve dokümantasyonu ile "TedariGo" markası, logosu ve alan adları ("**Platform Unsurları**") üzerindeki her türlü fikri ve sınai mülkiyet hakkı, Kullanıcılar tarafından yüklenen içerikler hariç olmak üzere Ahmet Kaan Dinç - Mekas Teknoloji'ye veya lisans verenlerine aittir. Platform Unsurları; FSEK kapsamında bilgisayar programı, ilim ve edebiyat eseri, güzel sanat eseri ve veri tabanı olarak, SMK kapsamında marka ve tasarım olarak ve TTK m.54 vd. haksız rekabet hükümleri çerçevesinde korunur.
+22.1. **Hak sahipliği.** Platform'un kaynak ve nesne kodları, hazırlık tasarımları, algoritmaları, yazılım mimarisi, uygulama programlama arayüzleri (API), veri tabanı yapısı ve Platform'da derlenen veri tabanları, ekran ve arayüz tasarımları, görsel ve grafik unsurları, ikonları, metinleri ve dokümantasyonu ile "TedariGo" markası, logosu ve alan adları ("**Platform Unsurları**") üzerindeki her türlü fikri ve sınai mülkiyet hakkı, Kullanıcılar tarafından yüklenen içerikler hariç olmak üzere Mekas Teknoloji'ye veya lisans verenlerine aittir. Platform Unsurları; FSEK kapsamında bilgisayar programı, ilim ve edebiyat eseri, güzel sanat eseri ve veri tabanı olarak, SMK kapsamında marka ve tasarım olarak ve TTK m.54 vd. haksız rekabet hükümleri çerçevesinde korunur.
 
 22.2. **Sınırlı kullanım hakkı.** Kullanıcı'ya, Sözleşme süresince ve yalnızca kendi ticari işlemlerini Platform'un resmi uygulamaları üzerinden yürütmek amacıyla münhasır olmayan, devredilemez, alt lisans verilemez ve Sözleşme'nin sona ermesiyle kendiliğinden sona eren sınırlı bir kullanım hakkı tanınır. Bu hak, FSEK m.21 ila m.25'te düzenlenen işleme, çoğaltma, yayma, temsil ve işaret, ses ve/veya görüntü nakline yarayan araçlarla umuma iletim haklarından hiçbirinin Kullanıcı'ya devri veya lisansı anlamına gelmez. Sözleşme'de açıkça tanınmayan tüm haklar Mekas Teknoloji'ye aittir.
 
